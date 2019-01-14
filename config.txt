@@ -1,0 +1,6 @@
+token=NTM0MTMxNzU5NDYyMzUwODY5.Dx3wVw.zLWguQeq-PPcimvyrx7OgkKKrnI
+owner=347379495528824832
+prefix= 2
+game= 2play , Minton
+stayinchannel=true
+songinstatus=true 
